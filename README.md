@@ -41,8 +41,7 @@ blocks of that type.
 
 # How to Run
 
-The game can be run by opening the index.html file in Firefox, or
-by running the included host.bat or host.command scripts and 
-connecting to localhost:8000 in any web browser of your choosing.
-The game has been tested on Windows and Mac and Linux devices in the 
-Firefox and Google Chrome browsers.
+The game can be run by running the included host.sh/host.bat/host.command 
+scripts and connecting to localhost:8000 in any web browser of your 
+choosing. The game has been tested on Windows and Mac and Linux devices 
+in the Firefox and Google Chrome browsers.
